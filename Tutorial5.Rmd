@@ -4,3 +4,10 @@ author: "Rachitha Werake"
 date: "2023-03-29"
 output: html_document
 ---
+
+```{r}
+# Libraries
+library(tidyverse)
+library(palmerpenguins)
+```
+
